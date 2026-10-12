@@ -2,7 +2,7 @@
 
 ---
 
-My TF2 HUD, built on top of [FRAGMENTHUD](https://github.com/leadscales/fragmenthud) 0.19.4 by [leadscales](https://github.com/leadscales). All the credit for the base design goes to them. This version is recoloured gold on black and grey, with the config scripts and the customize menu taken out. Drop it in `custom/` and play, nothing to set up.
+My TF2 HUD, built on top of [FRAGMENTHUD](https://github.com/leadscales/fragmenthud) 0.19.4 by [leadscales](https://github.com/leadscales) with lots of 🐦🐦🐦. All the credit for the base design goes to them. This version is recoloured gold on black and grey, with the config scripts and the customize menu taken out. Drop it in `custom/` and play, nothing to set up.
 
 # Screenshots
 
@@ -38,7 +38,7 @@ Nothing goes in `tf/cfg`. Restart the game after installing or updating, the mai
 
 - Gold accents instead of blue. BLU team colours, item quality colours and the green/red status colours are unchanged.
 - No `cfg/`, `dev/`, `extd/` or `user/`. No customize menu, first-run popup, link buttons or "Fix Issues" button.
-- Main menu uses Fry BG (muted) and a character art by [TheRabbitsito](https://x.com/TheRabbitsito) in place of the mercs, also during holidays.
+- Main menu uses Fry BG (muted version) by [slumberditch](https://gamebanana.com/members/4714365) and my oc's art by [TheRabbitsito](https://x.com/TheRabbitsito) in place of the mercs, also during holidays.
 - ConTracker colours from Full Halloween Theme, casual medals from Fixed Casual medals.
 - Scoreboard shows the casual level badge next to the avatar.
 - Party slots show a spinner while an invite is pending.
