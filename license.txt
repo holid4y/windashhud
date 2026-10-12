@@ -1,0 +1,20 @@
+WINDASH HUD
+Copyright (c) 2026 UnusualHatter
+Based on FRAGMENTHUD, Copyright (c) 2024 leadscales
+https://github.com/leadscales/fragmenthud
+
+---
+
+All files in the ./base directory are property of Valve Corporation and are provided here merely for convenience sake. I alongside any contributers to this project claim zero ownership of these files.
+The custom fonts used by FRAGMENTHUD are under different licenses. The icons.ttf font uses custom icons alongside "Material" icons provided by Google LLC, which are licensed under the Apache-2.0 license.
+The main text font used by FRAGMENTHUD is a derivitive of Inter, which are both licensed under the SIL Open Font License 1.1.
+The menu backgrounds in ./materials/console (Fry BG by slumberditch), the ConTracker textures in ./materials/vgui/cyoa (Full Halloween Theme by Prof. Prostate), the casual medal materials in ./materials/models/vgui (Fixed Casual medals by AGoJyt) and the menu character art in ./materials/vgui/replay/thumbnails/menu (by TheRabbitsito, https://x.com/TheRabbitsito) belong to their authors.
+All other files provided by this project are licensed under the GNU Lesser General Public License v3.0 or later.
+
+Please see ./resource/fonts/apache-2.0.txt and ./resource/fonts/ofl.txt.
+
+---
+
+https://www.apache.org/licenses/LICENSE-2.0
+https://openfontlicense.org/open-font-license-official-text/
+https://www.gnu.org/licenses/lgpl-3.0.html

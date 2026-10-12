@@ -1,0 +1,22 @@
+"characters"
+{
+    "fragment_character"
+    {
+        "image"                 "replay/thumbnails/menu/character"
+    }
+    "fragment_character_christmas"
+    {
+        "image"                 "replay/thumbnails/menu/character"
+        "holiday_restriction"   "christmas"
+    }
+    "fragment_character_halloween"
+    {
+        "image"                 "replay/thumbnails/menu/character"
+        "holiday_restriction"   "halloween_or_fullmoon"
+    }
+    "fragment_character_summer"
+    {
+        "image"                 "replay/thumbnails/menu/character"
+        "holiday_restriction"   "summer"
+    }
+}
